@@ -158,3 +158,6 @@ function sayGoodbye(name) {
 // callback 함수 sayHello와 sayGoodbye
 greet('길동', sayHello);  // 안녕하시오, 길동!
 greet('미현', sayGoodbye);  // 잘가, 미현!
+
+
+console.log("2번째 실습! 과연 이걸 home에서 저장하고 다음날 학원에서 온경우!");
